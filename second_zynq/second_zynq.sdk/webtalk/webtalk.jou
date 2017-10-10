@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2015.4 (64-bit)
+# SW Build 1412921 on Wed Nov 18 09:43:45 MST 2015
+# 
+# Start of session at: Tue Oct 10 16:18:16 2017
+# Process ID: 10264
+# Current directory: C:/Users/takagilab/Desktop/fpga_learn/second_zynq/second_zynq.sdk/webtalk
+# Command line: wbtcv.exe -mode batch -source sdk_webtalk.tcl
+# Log file: C:/Users/takagilab/Desktop/fpga_learn/second_zynq/second_zynq.sdk/webtalk/webtalk.log
+# Journal file: C:/Users/takagilab/Desktop/fpga_learn/second_zynq/second_zynq.sdk/webtalk\webtalk.jou
+#-----------------------------------------------------------
+source sdk_webtalk.tcl
